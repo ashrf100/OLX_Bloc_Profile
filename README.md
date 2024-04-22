@@ -16,6 +16,18 @@ Our OLX Clone goes beyond being a mere marketplace; it's a harmonious blend of c
 - **Elegant Animations**: Enhance the visual appeal and interactivity of the user interface.
 - **Error Handling**: Gracefully manage connection issues and potential errors.
 
+## Screenshots 📷
+
+![Screenshot 1](screenshots/screenshot1.png)
+Caption for Screenshot 1
+
+![Screenshot 2](screenshots/screenshot2.png)
+Caption for Screenshot 2
+
+## Video 🎥
+
+[![Video Preview](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+
 ## Architecture and State Management 🏗️
 
 - **Clean Architecture**: Follows Clean Architecture principles for a scalable, maintainable, and testable codebase.
