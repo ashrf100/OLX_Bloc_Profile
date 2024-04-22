@@ -6,16 +6,6 @@ Welcome to the repository of our OLX Clone, an exceptional e-commerce applicatio
 
 Our OLX Clone goes beyond being a mere marketplace; it's a harmonious blend of cutting-edge technology and user-centric design. Developed using the Dart programming language and the Flutter framework, it ensures a smooth and native-like experience on both iOS and Android platforms. 📱
 
-## Key Features 🔑
-
-- **Multi-Language Support**: Tailored for a diverse user base, the app is fully localized in English (EN) and Arabic (AR).
-- **Dual Theme Mode**: Effortlessly toggle between light and dark themes for comfort and accessibility.
-- **Responsive Design**: Enjoy a seamless experience across various screen sizes.
-- **Advanced Pagination**: Smooth scrolling and loading of product listings.
-- **Interactive Maps**: Pinpoint your location and browse products nearby with integrated Google Maps services.
-- **Elegant Animations**: Enhance the visual appeal and interactivity of the user interface.
-- **Error Handling**: Gracefully manage connection issues and potential errors.
-
 ## Screenshots 📷
 
 ![Screenshot 1](screenshots/screenshot1.png)
@@ -27,6 +17,15 @@ Caption for Screenshot 2
 ## Video 🎥
 
 [![Video Preview](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+## Key Features 🔑
+
+- **Multi-Language Support**: Tailored for a diverse user base, the app is fully localized in English (EN) and Arabic (AR).
+- **Dual Theme Mode**: Effortlessly toggle between light and dark themes for comfort and accessibility.
+- **Responsive Design**: Enjoy a seamless experience across various screen sizes.
+- **Advanced Pagination**: Smooth scrolling and loading of product listings.
+- **Interactive Maps**: Pinpoint your location and browse products nearby with integrated Google Maps services.
+- **Elegant Animations**: Enhance the visual appeal and interactivity of the user interface.
+- **Error Handling**: Gracefully manage connection issues and potential errors.
 
 ## Architecture and State Management 🏗️
 
