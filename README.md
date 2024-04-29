@@ -16,6 +16,8 @@ Caption for Screenshot 2
 
 ## Video 🎥
 
+[![Video Preview](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=zPhuAL88d_M)
+
 [![Video Preview](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
 ## Key Features 🔑
 
