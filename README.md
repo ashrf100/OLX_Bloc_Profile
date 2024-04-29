@@ -5,21 +5,11 @@ Welcome to the repository of our OLX Clone, an exceptional e-commerce applicatio
 ## About the App ℹ️
 
 Our OLX Clone goes beyond being a mere marketplace; it's a harmonious blend of cutting-edge technology and user-centric design. Developed using the Dart programming language and the Flutter framework, it ensures a smooth and native-like experience on both iOS and Android platforms. 📱
-
-## Screenshots 📷
-
-![Screenshot 1](screenshots/screenshot1.png)
-Caption for Screenshot 1
-
-![Screenshot 2](screenshots/screenshot2.png)
-Caption for Screenshot 2
-
-## Video 🎥
 ## Video 🎥
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=zPhuAL88d_M" frameborder="0" allowfullscreen></iframe>
+Watch the video 1 [here](https://www.youtube.com/watch?v=zPhuAL88d_M&t=1s).
+Watch the video 2 [here](https://www.youtube.com/watch?v=DUJM5qdjEbE).
 
-[![Video Preview](https://www.youtube.com/watch?v=zPhuAL88d_M)]
 
 ## Key Features 🔑
 
